@@ -19,16 +19,18 @@ Division (/)
 ✔ Simple and intuitive user input
 ✔ Lightweight and fast execution
 
- **Technologies Used**
+ Technologies Used**
 
 Programming Language: Python
 
-User Input Handling: Command-line interface (CLI)
+User Input Handling:
+Command-line interface (CLI)
 Usage
 1. Run the script.
 2. Enter two numbers when prompted.
 3. Choose an arithmetic operation.
 4. View the calculated result.
+
 Project Link
 
 GitHub Repository (https://github.com/Abbas786-Ali/python-GUI-base-project/blob/main/GUL%20base%20calculator%20.py)
