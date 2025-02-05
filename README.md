@@ -31,5 +31,5 @@ Usage
 4. View the calculated result.
 Project Link
 
-GitHub Repository (https://github.com/Abbas786-Ali/python-GUI-base-project)
+GitHub Repository (https://github.com/Abbas786-Ali/python-GUI-base-project/blob/main/GUL%20base%20calculator%20.py)
 
