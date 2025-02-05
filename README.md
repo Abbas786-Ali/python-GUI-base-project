@@ -31,5 +31,5 @@ Usage
 4. View the calculated result.
 Project Link
 
-GitHub Repository (Replace with your actual GitHub link)
+GitHub Repository (https://github.com/Abbas786-Ali/python-GUI-base-project)
 
